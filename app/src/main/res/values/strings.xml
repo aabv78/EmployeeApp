@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Employees</string>
+    <string name="Employee_name">Name</string>
+    <string name="Employee_department">Department</string>
+    <string name="Employee_salary">Salary</string>
+
+    <string name="enter_name">Enter name</string>
+    <string name="enter_salary">Enter salary</string>
+    <string name="enter_department">Enter department</string>
+</resources>
